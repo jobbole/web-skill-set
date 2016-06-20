@@ -2,11 +2,22 @@ Web 前端开发技能栈
 
 ## 初衷
 
-待补充
+几年来，伯乐在线的团队成员通过我们的[前端频道](http://web.jobbole.com)、[前端大全微博](http://weibo.com/u/5261893910)和微信公众号（公众号：**FrontDev** ）收到很多如下这样的留言反馈
+
+- 我该如何学习、提升前端开发水平？
+- 前端开发涉及到哪些技能点？
+- 能不能推荐经典的前端开发技术书籍？
+- ……
+
+如果你也有类似的困惑，这份 Web 前端开发技能栈就是为你准备的。这个公开的项目的目标是做成一份前端开发入门、进阶的参考指南。
+
+我们也期待更多的前端同行来补充完善这个技能栈。请通过提交PR来提出反馈，或加入维护团队。谢谢！
 
 ## 维护团队
 
-本项目由[伯乐在线](http://www.jobbole.com)团队策划，[@Kenshin](https://github.com/Kenshin) 撰写第一版。如果您感兴趣加入维护团队，请[从这里提交申请](http://group.jobbole.com/category/feedback/skill-set-team/)。谢谢！ 
+本项目由[伯乐在线](http://www.jobbole.com)团队策划，[@Kenshin](https://github.com/Kenshin) 撰写第一版。
+
+如果您感兴趣加入维护团队，请[从这里提交申请](http://group.jobbole.com/category/feedback/skill-set-team/)。谢谢！ 
 
 ## 概览
 
