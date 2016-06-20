@@ -6,7 +6,7 @@ Web 前端开发技能栈
 
 ## 维护团队
 
-本项目由![伯乐在线](http://www.jobbole.com)团队策划，![@Kenshin](https://github.com/Kenshin) 撰写第一版。如果您感兴趣加入维护团队，请![从这里提交申请](http://group.jobbole.com/category/feedback/skill-set-team/)。谢谢！ 
+本项目由[伯乐在线](http://www.jobbole.com)团队策划，[@Kenshin](https://github.com/Kenshin) 撰写第一版。如果您感兴趣加入维护团队，请[从这里提交申请](http://group.jobbole.com/category/feedback/skill-set-team/)。谢谢！ 
 
 ## 概览
 
