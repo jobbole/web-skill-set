@@ -1,6 +1,6 @@
 ## 初衷
 
-几年来，伯乐在线的团队成员通过我们的[前端频道](http://web.jobbole.com)、[前端大全微博](http://weibo.com/u/5261893910)和前端大全微信公号（ **FrontDev** ）收到很多如下这样的留言反馈
+几年来，伯乐在线的团队成员通过我们的[前端频道](http://web.importnew.com)、[前端大全微博](http://weibo.com/u/5261893910)和前端大全微信公号（ **FrontDev** ）收到很多如下这样的留言反馈
 
 - 我该如何学习、提升前端开发水平？
 - 前端开发涉及到哪些技能点？
@@ -13,9 +13,9 @@
 
 ## 维护团队
 
-本项目由[伯乐在线](http://www.jobbole.com)团队策划，[@Kenshin](https://github.com/Kenshin) 撰写第一版。
+本项目由[伯乐在线](http://www.importnew.com)团队策划，[@Kenshin](https://github.com/Kenshin) 撰写第一版。
 
-如果您感兴趣加入维护团队，请[从这里提交申请](http://group.jobbole.com/category/feedback/skill-set-team/)。谢谢！ 
+如果您感兴趣加入维护团队，请[从这里提交申请](http://group.importnew.com/category/feedback/skill-set-team/)。谢谢！ 
 
 ## 概览
 
